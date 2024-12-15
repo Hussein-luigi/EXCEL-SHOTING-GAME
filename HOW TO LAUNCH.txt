@@ -1,0 +1,1 @@
+before launch the game make sure to copy and paste the 'ShotExcel' folder in the C:\  partetion
