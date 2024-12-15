@@ -1,6 +1,10 @@
- Excel Shooting Game
----------------------
+# Excel Shooting Game
 This project is a shooting game created in Microsoft Excel using VBA (Visual Basic for Applications). The game features background music, sound effects, and interactive gameplay where the player aims and shoots at targets. The main objective is to score as many points as possible while enjoying the game in a fun and unique Excel environment.
+
+ How to start
+---------------------
+Before launching the game make sure to copy and paste the 'ShotExcel' folder in the C:\ partition.
+
 
  Resources Used
 ----------------
