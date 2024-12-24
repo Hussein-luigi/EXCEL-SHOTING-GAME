@@ -32,9 +32,13 @@
 ---
 
 ## 🕹️ **How to Play**
-1.Before launching the game, ensure you copy and paste the ShotExcel folder into the C:\ partition on your computer. 
+1. Before launching the game, ensure you copy and paste the ShotExcel folder into the C:\ partition on your computer. 
+
 2. Open the file `game1.xlsm` in Microsoft Excel.
+   
 3. Enable macros to start the game.
-4. Enjoy shooting targets and experience the legendary soundtracks!  
+  
+4. Enjoy shooting targets and experience the legendary soundtracks!
+ 
 
 ---
