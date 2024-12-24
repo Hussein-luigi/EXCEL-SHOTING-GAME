@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 **Features**
-- 🎮 **Interactive Gameplay**: A fully functional shooting game built using VBA and Excel UserForms.
+- 🎮 **Interactive Gameplay**: A fully functional shooting game built using VBA.
 - 🎵 **Epic Soundtracks**:
   - **DOOM (E1M1 Main Theme)** - id Software.
   - **Undertale (Spider Dance)** - Toby Fox.
@@ -38,7 +38,7 @@
    
 3. Enable macros to start the game.
   
-4. Enjoy shooting targets and experience the legendary soundtracks!
+4. Enjoy shooting targets!
  
 
 ---
